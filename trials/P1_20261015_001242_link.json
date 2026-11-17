@@ -1,0 +1,13 @@
+{
+  "windows_received": 288,
+  "windows_lost": 0,
+  "packets_rx": 654,
+  "packets_tx": 10,
+  "bad_frames": 0,
+  "alarms": 66,
+  "service_errors": 0,
+  "ack_ms_median": 73.5,
+  "ack_ms_max": 76.7,
+  "node": "node 0x0001: sensors Accelerometer [x y z |a|]; functions Feature, Alarm, GaitCue",
+  "link": "serial COM5"
+}
